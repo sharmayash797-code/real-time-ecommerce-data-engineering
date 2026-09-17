@@ -190,3 +190,6 @@ The pipeline successfully processed synthetic e-commerce order data and generate
 
 ### Azure Silver and Gold Data
 ![Azure Data](screenshots/azure-silver-gold-files.png)
+
+### System Architecture
+![System Architecture](screenshots/architecture-diagram.png)
