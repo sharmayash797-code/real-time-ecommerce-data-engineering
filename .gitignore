@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+*.pem
+*.key
+
+# Generated data
+data/
+logs/
+
+# Spark
+.sparkStaging/
+metastore_db/
+spark-warehouse/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+spark-checkpoint/
+spark-checkpoint-bronze/
+
+# Secrets
+kafka/databricks pat.txt
+*.token
+*.pat
